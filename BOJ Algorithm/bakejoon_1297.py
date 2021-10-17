@@ -1,4 +1,4 @@
-# 백준 브론즈4 - TV크기
+# 백준 브론즈4 - TV크기.
 # 대각선의 길이, 높이 비율, 너비 비율
 len,h,w = input().split()
 len = int(len)

@@ -10,7 +10,7 @@ for i in range(M) :
     X = int(X)
     Y = int(Y)
     # 인덱스 값을 기준으로 하기 위해 값을 1씩 뺀다.
-    # 리스트의 인덱스를 통해 방문할 것이다.
+    # 리스트의 인덱스를 통해 방문할 것이다
     xi = list.index(X)
     yi = list.index(Y)
 
